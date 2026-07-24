@@ -11,11 +11,12 @@
 | 3   | Longest Substring Without Repeating Characters | Medium | Sliding Window | [LC #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 4   | Binary Search | Easy | Binary Search | [LC #704](https://leetcode.com/problems/binary-search/) |
 | 4   | Search in Rotated Sorted Array | Medium | Binary Search | [LC #33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 5   | Merge Sorted Array | Easy | Sorting | [LC #88](https://leetcode.com/problems/merge-sorted-array/) |
 
 ## Weekly Stats
 | Metric | Count |
 |--------|-------|
-| Problems solved | 8     |
-| Easy | 5     |
+| Problems solved | 9     |
+| Easy | 6     |
 | Medium | 3     |
-| GitHub commits | 15    |
+| GitHub commits | 17    |
