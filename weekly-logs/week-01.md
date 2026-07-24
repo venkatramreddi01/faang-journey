@@ -12,11 +12,12 @@
 | 4   | Binary Search | Easy | Binary Search | [LC #704](https://leetcode.com/problems/binary-search/) |
 | 4   | Search in Rotated Sorted Array | Medium | Binary Search | [LC #33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | 5   | Merge Sorted Array | Easy | Sorting | [LC #88](https://leetcode.com/problems/merge-sorted-array/) |
+| 5   | Kth Largest Element in an Array | Medium | Quickselect | [LC #215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 
 ## Weekly Stats
 | Metric | Count |
 |--------|-------|
-| Problems solved | 9     |
+| Problems solved | 10    |
 | Easy | 6     |
-| Medium | 3     |
-| GitHub commits | 17    |
+| Medium | 4     |
+| GitHub commits | 19    |
