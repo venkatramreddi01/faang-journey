@@ -10,11 +10,12 @@
 | 3   | Best Time to Buy and Sell Stock | Easy      | Sliding Window | [LC #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 3   | Longest Substring Without Repeating Characters | Medium | Sliding Window | [LC #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 4   | Binary Search | Easy | Binary Search | [LC #704](https://leetcode.com/problems/binary-search/) |
+| 4   | Search in Rotated Sorted Array | Medium | Binary Search | [LC #33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 
 ## Weekly Stats
 | Metric | Count |
 |--------|-------|
-| Problems solved | 7     |
+| Problems solved | 8     |
 | Easy | 5     |
-| Medium | 2     |
-| GitHub commits | 13    |
+| Medium | 3     |
+| GitHub commits | 15    |
