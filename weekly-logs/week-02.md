@@ -12,11 +12,12 @@
 | 11  | Binary Tree Level Order Traversal | Medium     | Tree BFS             | [LC #102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 11  | Binary Tree Right Side View       | Medium     | Tree BFS             | [LC #199](https://leetcode.com/problems/binary-tree-right-side-view/)       |
 | 12  | Search in a Binary Search Tree    | Easy       | BST                  | [LC #700](https://leetcode.com/problems/search-in-a-binary-search-tree/)    |
+| 13  | Validate Binary Search Tree       | Medium     | BST                  | [LC #98](https://leetcode.com/problems/validate-binary-search-tree/)        |
 
 ## Weekly Stats
 | Metric          | Count |
 |-----------------|-------|
-| Problems solved | 9     |
+| Problems solved | 10    |
 | Easy            | 5     |
-| Medium          | 4     |
-| GitHub commits  | 17    |
+| Medium          | 5     |
+| GitHub commits  | 19    |
