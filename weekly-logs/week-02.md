@@ -12,12 +12,13 @@
 | 11  | Binary Tree Level Order Traversal | Medium     | Tree BFS             | [LC #102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 11  | Binary Tree Right Side View       | Medium     | Tree BFS             | [LC #199](https://leetcode.com/problems/binary-tree-right-side-view/)       |
 | 12  | Search in a Binary Search Tree    | Easy       | BST                  | [LC #700](https://leetcode.com/problems/search-in-a-binary-search-tree/)    |
-| 13  | Validate Binary Search Tree       | Medium     | BST                  | [LC #98](https://leetcode.com/problems/validate-binary-search-tree/)        |
+| 12  | Validate Binary Search Tree       | Medium     | BST                  | [LC #98](https://leetcode.com/problems/validate-binary-search-tree/)        |
+| 13  | Kth Largest Element in a Stream   | Easy       | Heap                 | [LC #703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)   |
 
 ## Weekly Stats
 | Metric          | Count |
 |-----------------|-------|
-| Problems solved | 10    |
-| Easy            | 5     |
+| Problems solved | 11    |
+| Easy            | 6     |
 | Medium          | 5     |
-| GitHub commits  | 19    |
+| GitHub commits  | 21    |
