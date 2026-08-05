@@ -15,11 +15,12 @@
 | 12  | Validate Binary Search Tree       | Medium     | BST                  | [LC #98](https://leetcode.com/problems/validate-binary-search-tree/)        |
 | 13  | Kth Largest Element in a Stream   | Easy       | Heap                 | [LC #703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)   |
 | 13  | Top K Frequent Elements           | Medium     | HashMap + Heap       | [LC #347](https://leetcode.com/problems/top-k-frequent-elements/)           |
+| 14  | Implement Trie (Prefix Tree)      | Medium     | Trie                 | [LC #208](https://leetcode.com/problems/implement-trie-prefix-tree/)        |
 
 ## Weekly Stats
 | Metric          | Count |
 |-----------------|-------|
-| Problems solved | 12    |
+| Problems solved | 13    |
 | Easy            | 6     |
-| Medium          | 6     |
-| GitHub commits  | 23    |
+| Medium          | 7     |
+| GitHub commits  | 25    |
